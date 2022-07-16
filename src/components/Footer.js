@@ -17,7 +17,7 @@ const Footer = () => {
               </a>
             </div>
             <div>
-              <a href="https://github.com/zaryabkhalid?tab=repositories">
+              <a href="https://github.com/zaryabkhalid/Movies-App">
                 <BsGithub />
               </a>
             </div>
